@@ -1,0 +1,30 @@
+_repo: Coal-and-the-coal-mines_69134
+_version: 0.0.1
+contributor:
+  illustrator: &id001
+    agent_name: Greene, Homer
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '3540'
+    url: http://www.gutenberg.org/2009/agents/3540
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2022-10-11'
+identifiers:
+  gutenberg: '69134'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=pst.000064125633
+pgterms:marc905: 20171006094723greene
+pgterms:marc906: '1889'
+pgterms:marc907: US
+production_note: Donald Cummings with images made available by the HathiTrust Digital
+  Library.
+publication_note: United States :Houghton, Mifflin and Company,1889,pubdate 1898.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Coal and the coal mines
+url: http://www.gutenberg.org/ebooks/69134
